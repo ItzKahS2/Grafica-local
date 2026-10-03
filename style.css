@@ -971,7 +971,7 @@ footer {
   .contact > div:first-child { padding-bottom: 22px; }
   .contact p { margin-left: auto; margin-right: auto; }
   .info { justify-content: center; }
-  .cimg { height: 300px; }
+  .cimg { height: 370px; justify-self: end; margin-right: -4px; }
   .contact > .bgface { width: 190px; top: 8px; right: -30px; }
   .fgrid { grid-template-columns: 1fr 1fr; }
   .panel { padding: 30px 22px 20px; }
